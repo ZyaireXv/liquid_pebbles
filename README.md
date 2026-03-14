@@ -6,7 +6,7 @@
 
 ## 效果预览
 
-![liquid_pebbles 演示](docs/images/liquid_pebbles_demo.gif)
+![liquid_pebbles 演示](doc/images/liquid_pebbles_demo.gif)
 
 ## 核心特性
 
