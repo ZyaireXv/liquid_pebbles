@@ -4,6 +4,10 @@
 
 该组件在视觉上呈现出类似液滴或细胞的生命力特征，非常适合应用于个人中心统计、数据概览面板或首页的 Hero 区域。它能在不干扰核心信息阅读的前提下，为界面提供克制而灵动的动态背景。由于完全基于 Dart 和 Flutter 绘制，该包没有任何底层平台依赖，可以无缝接入各端项目。
 
+## 效果预览
+
+![liquid_pebbles 演示](docs/images/liquid_pebbles_demo.gif)
+
 ## 核心特性
 
 - **多卡片同台展示**：支持在同一区域内容纳多个流体卡片。
@@ -23,12 +27,11 @@
 
 ## 安装指南
 
-在项目的 `pubspec.yaml` 中添加本地依赖路径：
+在项目的 `pubspec.yaml` 中添加依赖：
 
 ```yaml
 dependencies:
-  liquid_pebbles:
-    path: ../liquid_pebbles
+  liquid_pebbles: ^0.0.1
 ```
 
 随后在终端执行：
