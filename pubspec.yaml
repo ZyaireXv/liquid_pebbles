@@ -1,7 +1,9 @@
 name: liquid_pebbles
 description: "A Flutter package for animated liquid pebble cards with soft drift and organic morphing."
 version: 0.0.1
-homepage:
+homepage: https://github.com/ZyaireXv/liquid_pebbles
+repository: https://github.com/ZyaireXv/liquid_pebbles
+issue_tracker: https://github.com/ZyaireXv/liquid_pebbles/issues
 
 environment:
   sdk: ^3.10.4
