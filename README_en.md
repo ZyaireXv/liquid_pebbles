@@ -8,7 +8,7 @@ This component visually presents vital characteristics similar to droplets or ce
 
 ## Visual Preview
 
-![liquid_pebbles demo](doc/images/liquid_pebbles_demo.gif)
+![liquid_pebbles demo](https://raw.githubusercontent.com/ZyaireXv/liquid_pebbles/main/doc/images/liquid_pebbles_demo.gif)
 
 ## Core Features
 

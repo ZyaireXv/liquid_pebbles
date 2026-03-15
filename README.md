@@ -8,7 +8,7 @@
 
 ## 效果预览
 
-![liquid_pebbles 演示](doc/images/liquid_pebbles_demo.gif)
+![liquid_pebbles 演示](https://raw.githubusercontent.com/ZyaireXv/liquid_pebbles/main/doc/images/liquid_pebbles_demo.gif)
 
 ## 核心特性
 
